@@ -1,0 +1,24 @@
+
+  Среда сборки или выполнения: Windows/Linux
+
+Files
+
+ * GLUT  - glut-3.7.6-bin.zip
+   Раньше архив был на странице
+   http://xmission.com/~nate/glut.html
+   сейчас можно найти на https://code.google.com/p/rawvideoplayer/downloads/list
+
+ * Code Blocks - codeblocks-10.05mingw-setup.exe
+                 codeblocks-13.12mingw-setup.exe
+   http://www.codeblocks.org/downloads/26#windows
+   (при невоможности установить на диск C: - нет
+    прав администратора, установите Code::Blocks
+    на диск D:)
+
+ * OpenGL SDK docs and C-headers - сайт opengl.org,
+   в дистрибутивах Mesa, NVIDIA SDK for Windows и т.д.
+
+ * FreeImage - FreeImage3151Win32.zip
+   http://freeimage.sourceforge.net/download.html
+   под Windows собирается из исходников нетривиально,
+   см. http://downloads.sourceforge.net/freeimage/FreeImage3170.zip
