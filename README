@@ -22,3 +22,23 @@ Licenses
 
  Creative Commons Attribution 4.0 International
  http://creativecommons.org/licenses/by/4.0/deed.ru
+
+
+ Содержимое папки g++-opengl
+
+               .
+               ..
+           307 build.bat
+             0 example.txt
+       123 904 glu32.dll
+       237 568 glut32.dll
+        28 728 glut32.lib
+<DIR>          include
+           842 INSTALL.txt
+           735 README.txt
+         9 042 test.c
+        18 958 test.exe
+         9 910 test.obj
+
+    11 файлов         429 994 байт
+     3 папок  355 511 656 448 байт свободно
